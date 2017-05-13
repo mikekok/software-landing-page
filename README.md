@@ -27,6 +27,7 @@ A landing page to promote your application.
 
 ## Credits
 * [Freepik](http://www.flaticon.com)
+* [FontAwesome](http://fontawesome.io)
 * [Bulma](http://bulma.io)
 * [jQuery](https://jquery.com)
 * [NodeJS](https://nodejs.org)
