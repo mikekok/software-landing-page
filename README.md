@@ -25,6 +25,13 @@ A landing page to promote your application.
 * [gulp-size](https://www.npmjs.com/package/gulp-size)
 * [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)
 
+## Credits
+* [Freepik](http://www.flaticon.com)
+* [Bulma](http://bulma.io)
+* [jQuery](https://jquery.com)
+* [NodeJS](https://nodejs.org)
+* [Gulp](http://gulpjs.com)
+
 ## License
 This project is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. But you always need to state that xWeb is the original author of this template.
 
