@@ -1,0 +1,13 @@
+footer.footer {
+    font-weight: 300;
+    background-color: $light-gray;
+    padding: 30px;
+
+    i {
+        line-height: 24px;
+        font-size: 12px;
+        color: $danger;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+}

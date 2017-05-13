@@ -1,0 +1,15 @@
+.hero {
+    nav.nav {
+        box-shadow: none;
+        margin-top: $margin-small;
+
+        .nav-item {
+            margin: $margin-small;
+
+            .button {
+                border-radius: 20px;
+                padding: 5px 20px;
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+section.hero {
+    #header {
+        .title {
+            font-size: 52px;
+            margin-bottom: $margin;
+        }
+
+        .subtitle {
+            font-size: 28px;
+            color: $text-color-light;
+        }
+
+        img.product {
+            width: 70vh;
+            margin-top: $margin;
+            margin-bottom: $margin;
+        }
+
+        a i {
+            position: relative;
+            animation: MoveUpDown 1s linear infinite;
+            font-size: 50px;
+            color: $text-color-light;
+        }
+    }
+}
+
+section#features {
+    background-color: $light-gray;
+
+    .feature {
+        .name {
+            font-weight: 300;
+            font-size: 26px;
+            margin-top: $margin-small;
+            margin-bottom: $margin-small;
+        }
+
+        .desc {
+            font-weight: 300;
+            width: 70%;
+            margin: auto;
+        }
+    }
+}
+
+section#preview {
+    .columns {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .name {
+        font-weight: 300;
+        font-size: 36px;
+        margin-top: $margin-small;
+        margin-bottom: $margin-small;
+    }
+
+    .desc {
+        font-weight: 300;
+        font-size: 20px;
+        width: 70%;
+        margin: auto;
+        text-align: justify;
+    }
+}
+
+section#download {
+    background-color: $light-gray;
+
+    p {
+        font-size: 32px;
+        font-weight: 300;
+        margin-bottom: $margin;
+    }
+
+    ul {
+
+        li {
+            display: inline-block;
+            font-size: 14px;
+            margin: $margin-small/2;
+
+            a {
+                color: $text-color-light;
+
+                &:hover {
+                    color: $danger;
+                }
+            }
+        }
+    }
+}

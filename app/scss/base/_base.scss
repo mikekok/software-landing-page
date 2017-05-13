@@ -1,0 +1,20 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+img {
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+section.section {
+    padding: $margin-large;
+}
+
+a {
+    color: $danger;
+}

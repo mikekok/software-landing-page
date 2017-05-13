@@ -1,0 +1,16 @@
+// Utils
+@import 'utils/variables';
+@import 'utils/functions';
+@import 'utils/mixins';
+
+// Base
+@import 'base/base';
+
+// Partials
+@import 'partials/buttons';
+@import 'partials/scrollbar';
+@import 'partials/nav';
+@import 'partials/footer';
+
+// Pages
+@import 'pages/index';
